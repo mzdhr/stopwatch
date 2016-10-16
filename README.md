@@ -14,7 +14,7 @@ Basic stopwatch class to calculate time for code to complete in Python 3.5.
 
 
 ## Install
-* git clone https://github.com/mzdhr/weather.git
+* git clone https://github.com/mzdhr/stopwatch.git
 * copy stop_watch.py to your project directory.
 
 
