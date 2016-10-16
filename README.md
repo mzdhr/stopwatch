@@ -1,10 +1,6 @@
 # stopwatch
 Basic stopwatch class to calculate time for code to complete in Python 3.5.
 
-
-# stopwatch
-Basic stopwatch class to calculate time for code to complete in Python 3.5.
-
 * Written by Mohammad Laif [Droid Programming](droidprogramming.com).
 * Licensed under The [MIT License](../master/LICENSE).
 
